@@ -8,7 +8,7 @@ ________________________________________________________________
 
 A written report at the top of the Jupyter notebook file summarizes the main findings:
 
-#PyCity Schools Analysis
+# PyCity Schools Analysis
 
 "In this sample, the performance of Charter school students exceeded that of District school students on all metrics:
 
